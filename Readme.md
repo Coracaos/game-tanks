@@ -7,4 +7,4 @@
 - left = a
 - space = shoot
 
-<img src="img/img01.jpg" width="50" height="50">
+<img src="img/img01.jpg" width="150" height="150">
