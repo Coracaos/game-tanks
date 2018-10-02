@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1511020021 source:d:\computacion grafica\game\main.cpp
+	<iostream>
+	<windows.h>
+	<GL/glut.h>
+	<vector>
+	<time.h>
+	<math.h>
+
+1532753698 d:\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+893401200 d:\glut\include\gl\gl.h
+
+893401200 d:\glut\include\gl\glu.h
+	<GL/gl.h>
+
+1512215879 source:d:\computacion_grafica\game\main.cpp
+	<windows.h>
+	<iostream>
+	<GL/glut.h>
+	<vector>
+	<time.h>
+	<math.h>
+	<stdio.h>
+
+1364433686 d:\lpng1515\png.h
+	"pnglibconf.h"
+	<setjmp.h>
+	<time.h>
+	"pngconf.h"
+
+1511739519 d:\lpng1515\pnglibconf.h
+
+1364433686 d:\lpng1515\pngconf.h
+	<limits.h>
+	<strings.h>
+	<string.h>
+	<stdio.h>
+	<dos.h>
+
+1538459395 source:d:\game\main.cpp
+	<windows.h>
+	<iostream>
+	<GL/glut.h>
+	<vector>
+	<time.h>
+	<math.h>
+	<stdio.h>
+
